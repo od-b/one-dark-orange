@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-orange",
+  "displayName": "One Dark Orange",
+  "description": "Theme based on One Dark. Darker backgrounds, vibrant color scheme with orange detailing. Additional highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Orange-color-theme.json"
+      }
+    ]
+  }
+}
