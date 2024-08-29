@@ -1,7 +1,7 @@
 {
   "name": "one-dark-orange",
   "displayName": "One Dark Orange",
-  "description": "Theme based on One Dark. Darker backgrounds, vibrant color scheme with orange detailing. Additional highlighting.",
+  "description": "Theme based on One Dark. Dark background, high contrast vibrant colors and orange detailing.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"

@@ -1,8 +1,7 @@
 # One Dark Orange
-Color theme based on One Dark Pro.  
-Dark background, high contrast vibrant colors and orange detailing.
+Color theme based on One Dark Pro
 
-## SCREENSHOT
+## Screenshots
 ### Token Highlighting
 ![ScreenShot](https://raw.githubusercontent.com/od-b/one-dark-orange/main/screenshots/sample-highlight-node.png)
 
