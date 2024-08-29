@@ -6,21 +6,28 @@
   "engines": {
     "vscode": "^1.92.0"
   },
+  "author": {
+    "name": "odin"
+  },
   "categories": [
     "Themes"
   ],
+  "pricing": "Free",
   "contributes": {
     "themes": [
       {
         "label": "One Dark Orange",
         "uiTheme": "vs-dark",
-        "path": "./themes/One Dark Orange-color-theme.json"
+        "path": "./themes/one-dark-orange-color-theme.json"
       }
     ]
   },
   "publisher": "odibje",
   "repository": {
     "type": "git",
-    "url": "https://github.com/od-b/one-dark-orange"
-  }
+    "url": "https://github.com/od-b/one-dark-orange.git"
+  },
+  "homepage": "https://github.com/od-b/one-dark-orange/blob/main/README.md",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "icon": "./nice-icon.png"
 }
