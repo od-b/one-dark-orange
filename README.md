@@ -4,10 +4,10 @@ Dark background, high contrast vibrant colors and orange detailing.
 
 ## SCREENSHOT
 ### Token Highlighting
-![ScreenShot](https://i.imgur.com/LCnZeRS.png)
+![ScreenShot](https://raw.githubusercontent.com/od-b/one-dark-orange/main/screenshots/sample-highlight-node.png)
 
 ### Fullscreen
-![ScreenShot](https://i.imgur.com/poxSHTj.png)
+![ScreenShot](https://raw.githubusercontent.com/od-b/one-dark-orange/main/screenshots/sample-rust-fullscreen.png)
 
 
 ## Suggested Settings
