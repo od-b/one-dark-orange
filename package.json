@@ -17,5 +17,10 @@
         "path": "./themes/One Dark Orange-color-theme.json"
       }
     ]
+  },
+  "publisher": "odibje",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/od-b/one-dark-orange"
   }
 }
