@@ -25,4 +25,15 @@ If a look similar to the screenshot above is desired, add the following options 
     "editor.inlayHints.enabled": "offUnlessPressed", // Disable inline info such as '13 references'
 }
 ```
-For the file icons, check out [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+
+For icons, install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+
+The font is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the following configuration:
+```jsonc
+{
+    "editor.fontSize": 13,
+    "editor.fontLigatures": false,
+    "editor.lineHeight": 21,
+}
+```
+
