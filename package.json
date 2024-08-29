@@ -2,10 +2,21 @@
   "name": "one-dark-orange",
   "displayName": "One Dark Orange",
   "description": "Theme based on One Dark. Dark background, high contrast vibrant colors and orange detailing.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "one dark",
+    "dark",
+    "deuteranopia",
+    "high contrast",
+    "theme"
+  ],
   "author": {
     "name": "odin"
   },
