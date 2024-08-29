@@ -5,4 +5,4 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 ## [Unreleased]
 
 ### Added
-* Main Color Theme
+* Main color theme
