@@ -1,8 +1,8 @@
 {
   "name": "one-dark-orange",
   "displayName": "One Dark Orange",
-  "description": "Theme based on One Dark. Dark background, high contrast vibrant colors and orange detailing.",
-  "version": "0.0.2",
+  "description": "Dark color scheme with vibrant, high contrast highlighting and orange UI details.",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -17,19 +17,20 @@
     "high contrast",
     "theme"
   ],
-  "author": {
-    "name": "odin"
-  },
   "categories": [
     "Themes"
   ],
-  "pricing": "Free",
   "contributes": {
     "themes": [
       {
         "label": "One Dark Orange",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-orange-color-theme.json"
+      },
+      {
+        "label": "One Dark Orange - Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-orange-darker-color-theme.json"
       }
     ]
   },

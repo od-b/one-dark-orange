@@ -1,17 +1,15 @@
 # One Dark Orange
 Color theme based on [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme).  
 
-Request, question or feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new).
-
 ## Screenshots
-### Token Highlighting
+### Highlighting
 ![ScreenShot](https://raw.githubusercontent.com/od-b/one-dark-orange/main/screenshots/sample-highlight-node.png)
 
 ### Fullscreen
 ![ScreenShot](https://raw.githubusercontent.com/od-b/one-dark-orange/main/screenshots/sample-rust-fullscreen.png)
 
 ## Suggested Settings
-If a look similar to the screenshot above is desired, add the following options to `settings.json`.
+If a complete look similar to the fullscreen screenshot is desired, add the following options to `settings.json`.
 ```jsonc
 {
     "workbench.sideBar.location": "right",    // move side bar right (file explorer, etc)
@@ -28,7 +26,7 @@ If a look similar to the screenshot above is desired, add the following options 
 
 For icons, install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
-The font is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the following configuration:
+The font used is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the following configuration:
 ```jsonc
 {
     "editor.fontSize": 13,
@@ -37,3 +35,6 @@ The font is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the follo
 }
 ```
 
+---
+
+Request, question or feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new).
