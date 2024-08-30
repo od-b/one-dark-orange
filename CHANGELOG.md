@@ -4,12 +4,15 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 
 ## [Unreleased]
 
-
 ## [0.0.4] - 2024-08-30
 
 ### Updated
 - Description
-
+- Added screenshot disclaimer to README
+- Color adjustments:
+    - Bracket pairs
+    - Various C/CPP keyword
+    - String placeholder/interpolation
 
 ## [0.0.3] - 2024-08-29
 

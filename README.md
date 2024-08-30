@@ -35,6 +35,11 @@ The font used is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the 
 }
 ```
 
+## Notes
+
+__The theme is a work in progress, and subject to minor changes.__  
+The current screenshots are from v.0.0.2, and may not reflect the exact color scheme. See the [changelog](https://github.com/od-b/one-dark-orange/blob/main/CHANGELOG.md) for details. To be clear, there will not be major changes to the look, but rather minor adjustments to syntax/token highlighting. To avoid any changes, uncheck 'auto-update' and/or install a different version.
+
 ---
 
-Request, question or feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new).
+_Request, question or feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new)._

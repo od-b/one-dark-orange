@@ -13,7 +13,7 @@
   "keywords": [
     "one dark",
     "dark",
-    "deuteranopia",
+    "vibrant",
     "high contrast",
     "theme"
   ],
@@ -26,11 +26,6 @@
         "label": "One Dark Orange",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-orange-color-theme.json"
-      },
-      {
-        "label": "One Dark Orange - Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/one-dark-orange-darker-color-theme.json"
       }
     ]
   },
