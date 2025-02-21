@@ -36,5 +36,5 @@
   },
   "homepage": "https://github.com/od-b/one-dark-orange/blob/main/README.md",
   "license": "SEE LICENSE IN LICENSE.txt",
-  "icon": "./nice-icon.png"
+  "icon": "./assets/extension-icon.png"
 }
