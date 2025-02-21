@@ -19,7 +19,7 @@ If a complete look similar to the fullscreen screenshot is desired, add the foll
     "explorer.sortOrder": "type",             // sort files by type > name
     "editor.overviewRulerBorder": false,      // remove the scroll bar border
     "editor.stickyScroll.enabled": false,     // disable annoying scrolling function/scope headers
-    "editor.minimap.enabled": false,          // I don't use the minimap
+    "editor.minimap.enabled": false,          // Biased personal preference
     "editor.inlayHints.enabled": "offUnlessPressed", // Disable inline info such as '13 references'
 }
 ```
@@ -38,8 +38,8 @@ The font used is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), with the 
 ## Notes
 
 __The theme is a work in progress, and subject to minor changes.__  
-The current screenshots are from v.0.0.2, and may not reflect the exact color scheme. See the [changelog](https://github.com/od-b/one-dark-orange/blob/main/CHANGELOG.md) for details. To be clear, there will not be major changes to the look, but rather minor adjustments to syntax/token highlighting. To avoid any changes, uncheck 'auto-update' and/or install a different version.
+Screenshots are not an exact match of the current color scheme. The differences are subtle, however. E.g., git modified / untracked colors are slightly different.
 
 ---
 
-_Request, question or feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new)._
+_Request, comment, question or other feedback? Please open an issue on [github](https://github.com/od-b/one-dark-orange/issues/new)._

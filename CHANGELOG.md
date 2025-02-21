@@ -4,6 +4,14 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-02-21
+### Updated
+- Colors of untracked/modified
+- Warning color wwas too similar to error color. Change to purple.
+
+### Added
+- New icon
+
 ## [0.0.4] - 2024-08-30
 
 ### Updated
