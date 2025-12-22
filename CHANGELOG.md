@@ -4,6 +4,10 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 
 ## [Unreleased]
 
+## [1.0.1]
+### Updated
+- color of tsx class component
+
 ## [1.0.0] - 2025-02-21
 ### Updated
 - Colors of untracked/modified
