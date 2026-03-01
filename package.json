@@ -2,7 +2,7 @@
   "name": "one-dark-orange",
   "displayName": "One Dark Orange",
   "description": "Dark color scheme with vibrant, high contrast highlighting and orange UI details.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },

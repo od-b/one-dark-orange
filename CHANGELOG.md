@@ -4,6 +4,15 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 
 ## [Unreleased]
 
+## [1.0.2]
+
+### Updated
+- constant colors to distinguish from classes/types/etc
+- slight changes to string colors
+- italic for tsx interfaces, rust traits
+- turn down warning underlines by quite a bit
+- imports to use a baseline white-ish instead of green
+
 ## [1.0.1]
 ### Updated
 - color of tsx class component
