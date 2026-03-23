@@ -13,7 +13,14 @@
       "foreground": "#f69e96"
     },
     "variable.defaultLibrary": {
-      "foreground": "#e5c07b"
+      "foreground": "#f69e96"
+    },
+    "const": {
+      "foreground": "#f69e96"
+    },
+    "static": {
+      "foreground": "#f69e96"
+      // "fontStyle": "underline"
     },
     "variable:dart": {
       "foreground": "#d19a66"
@@ -1721,7 +1728,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#76a94c",
+        "foreground": "#76a94c"
         // "foreground": "#b2b25b"
       }
     },
@@ -1789,8 +1796,10 @@
     {
       "scope": ["entity.name.type.module", "entity.name.namespace"],
       "settings": {
-        // "foreground": "#92c4a6"
+        "fontStyle": "",
         "foreground": "#efeee6"
+        // "foreground": "#ABB2BF",
+        // "foreground": "#beb7af"
       }
     },
     {
@@ -1807,10 +1816,28 @@
         "fontStyle": "bold"
       }
     },
+    // {
+    //   "scope": "variable.language.self.rust",
+    //   "settings": {
+    //     "foreground": "#e5c07b"
+    //   }
+    // },
+    // {
+    //   "scope": "keyword.other.self.rust",
+    //   "settings": {
+    //     "foreground": "#e5c07b",
+    //   }
+    // },
+    // {
+    //   "scope": "variable.other.property.rust",
+    //   "settings": {
+    //     "foreground": "#e5c07b",
+    //   }
+    // },
     {
       "scope": ["entity.name.type.trait.rust"],
       "settings": {
-        "foreground": "#e5c07b",
+        // "foreground": "#e5c07b",
         "fontStyle": "italic"
       }
     },
@@ -1827,7 +1854,7 @@
         "entity.name.class.identifier.namespace.type"
       ],
       "settings": {
-        "foreground": "#e5c07b",
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -1838,10 +1865,10 @@
         "entity.name.type.class",
         "variable.other.class.js",
         "variable.other.class.ts",
-        "support.class.component.tsx",
+        "support.class.component.tsx"
       ],
       "settings": {
-        "foreground": "#e5c07b",
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -1887,11 +1914,11 @@
       }
     },
     {
-      "scope": "support.constant.core.rust",
+      "scope": ["support.constant.core.rust", "constant.other.caps.rust"],
       "settings": {
         "foreground": "#f69e96"
       }
-    },
+    }
   ], // #CDCFCE
   "colors": {
     "activityBar.background": "#0e1218",

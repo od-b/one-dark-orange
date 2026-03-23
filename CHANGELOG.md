@@ -4,6 +4,13 @@ All notable changes to the "one-dark-orange" extension will be documented in thi
 
 ## [Unreleased]
 
+
+## [1.0.3]
+
+## Updated
+- Default library variables to match constant color
+- Slightly toned down default string color
+
 ## [1.0.2]
 
 ### Updated
